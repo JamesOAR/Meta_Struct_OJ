@@ -3,7 +3,7 @@ from MetaStruct.Objects.Shapes.Sphere import Sphere
 from MetaStruct.Objects.Points.PointClouds import *
 from MetaStruct.Objects.Lattices.StrutLattice import *
 
-#This document is being modified
+#This document is being modified again
 def voro_test():
     ds = DesignSpace(200)
     shape = Sphere(ds)
